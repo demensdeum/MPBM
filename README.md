@@ -1,4 +1,4 @@
 # MPBM
-Music player
+Media player
 
-Muzikalnii Player Bolshoi Moshnosti
+Media Player Bolshoi Moshnosti
